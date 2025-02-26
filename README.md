@@ -58,4 +58,4 @@ joined: 2014
 If you don't have information, just leave it blank. The avatar will bring photo from `images/people` folder and display it on people page. To avoid your image getting stretched, you should scale it to **200x230 pixels**.
 If you have a personal webpage, you can include it under `website`. Adding a webpage will link to your site instead of showing your page here.
 For lab position, you can choose position from 4 classes including `postdoc`, `gradstudent`, `visiting`, `others` (so called Honorary members). Position will put you into section that you choose.
-For alumni, choose betweeen `leader`, `ra`, `alumni_phd`. 
+For alumni, choose betweeen `leader`, `alumni_ra`, `alumni_phd`. 
