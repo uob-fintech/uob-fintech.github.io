@@ -1,5 +1,5 @@
 ---
-name: Test PhD Student
+name: Zinuo (Henry) You
 position: gradstudent 
 avatar: 
 twitter: 

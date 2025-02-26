@@ -1,5 +1,5 @@
 ---
-name: Test PhD Student
+name: Shiyu Zhang
 position: gradstudent 
 avatar: 
 twitter: 

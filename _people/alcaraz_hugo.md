@@ -1,6 +1,6 @@
 ---
-name: Rongwei Liu
-position: gradstudent 
+name: Hugo Alcaraz Herrera
+position: alumni_phd
 avatar: 
 twitter: 
 affiliation: John Cartlidge's Group

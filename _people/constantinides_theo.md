@@ -1,5 +1,5 @@
 ---
-name: Test PhD Student
+name: THeodoros Constantinides
 position: gradstudent 
 avatar: 
 twitter: 

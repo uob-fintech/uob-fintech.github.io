@@ -1,5 +1,5 @@
 ---
-name: Test PhD Student
+name: Arwa Bokhari
 position: gradstudent 
 avatar: 
 twitter: 

@@ -1,5 +1,5 @@
 ---
-name: Test PhD Student
+name: Tianye Wang
 position: gradstudent 
 avatar: 
 twitter: 

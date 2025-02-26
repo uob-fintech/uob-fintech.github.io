@@ -1,5 +1,5 @@
 ---
-name: Test PhD Student
+name: Lawrence Clegg
 position: gradstudent 
 avatar: 
 twitter: 

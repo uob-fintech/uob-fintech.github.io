@@ -1,5 +1,5 @@
 ---
-name: Test PhD Student
+name: Wenyu Gu
 position: gradstudent 
 avatar: 
 twitter: 

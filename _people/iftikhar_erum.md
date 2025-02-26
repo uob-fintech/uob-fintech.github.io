@@ -1,8 +1,8 @@
 ---
-name: Test PhD Student
+name: Erum Iftikhar
 position: gradstudent 
 avatar: 
 twitter: 
-affiliation: Wei Wei's Group
+affiliation: Wei Wei's Group (visiting)
 website: 
 ---
