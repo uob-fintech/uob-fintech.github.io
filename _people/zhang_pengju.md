@@ -1,5 +1,5 @@
 ---
-name: Pengju Zhang
+name: Pengju Zhang MScR
 position: alumni_phd
 avatar: pengju_zhang.jpg
 twitter: 
