@@ -1,6 +1,6 @@
 ---
 name: Erum Iftikhar
-position: visiting 
+position: gradstudent 
 avatar: 
 twitter: 
 affiliation: Wei Wei's Group

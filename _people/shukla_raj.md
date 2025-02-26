@@ -1,6 +1,6 @@
 ---
 name: Dr Raj Mani Shukla
-position: ra
+position: alumni_ra
 avatar: raj_shukla.jpg
 twitter: 
 affiliation: John Cartlidge's Group
