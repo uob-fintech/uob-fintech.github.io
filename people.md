@@ -54,7 +54,7 @@ permalink: /people/
         {% if profile.avatar %}
         <a href="{{url_tmp}}"><img width="200" height="230" src="{{site.baseurl}}/images/people/{{profile.avatar}}"></a>
         {% else %}
-        <a href=""><img width="200" height="230" src="http://evansheline.com/wp-content/uploads/2011/02/facebook-Storm-Trooper.jpg"></a>
+        <a href=""><img width="200" height="230" src="{{site.baseurl}}/images/people/facebook-Storm-Trooper.jpg"></a>
         {% endif %}
         <a class="name" href="{{url_tmp}}">{{ profile.name }}</a>
         {% if profile.affiliation %}
