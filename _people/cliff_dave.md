@@ -1,5 +1,5 @@
 ---
-name: Prof Dave Cliff
+name: Prof. Dave Cliff
 position: pi
 avatar: 
 twitter: 
