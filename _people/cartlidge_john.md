@@ -1,7 +1,7 @@
 ---
 name: Prof John Cartlidge
 position: pi
-avatar: john_cartlidge.jpg
+avatar: johnc.jpg
 twitter: 
 affiliation: SEMT
 website: 
