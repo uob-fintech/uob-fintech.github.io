@@ -1,7 +1,7 @@
 ---
 name: Pengju Zhang
 position: alumni_phd
-avatar: 
+avatar: pengju_zhang
 twitter: 
 affiliation: Jin Zheng's Group 
 website: https://scholar.google.com/citations?hl=en&user=MZ71ZfIAAAAJ
