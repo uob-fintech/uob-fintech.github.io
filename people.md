@@ -74,7 +74,7 @@ Researchers in the Financial Engineering Lab (FEL) develop and apply methods fro
 <hr>
 {% endfor %}
 
-List of [Fintech alumni](/people/alumni).
+List of [Financial Engineering Lab (FEL) alumni](/people/alumni).
 
 <hr>
 
