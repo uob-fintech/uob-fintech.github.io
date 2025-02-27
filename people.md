@@ -9,6 +9,7 @@ permalink: /people/
 <br>
 <h2>Financial Engineering Lab</h2>
 Financial Engineering Lab is a unit of <a href="https://www.bristol.ac.uk/research/groups/intelligent-systems/">Intelligent Systems Laboratories (ISL)</a>
+FEL is a unit of [Intelligent Systems Laboratories (ISL)](https://www.bristol.ac.uk/research/groups/intelligent-systems/).
 
 <!--
 {% assign people_sorted = site.people | sort: "joined" %}
