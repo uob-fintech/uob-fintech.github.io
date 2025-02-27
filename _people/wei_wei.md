@@ -1,7 +1,7 @@
 ---
 name: Dr Wei Wei
 position: pi
-avatar: 
+avatar: wei_wei.jpg
 twitter: 
 affiliation: SEMT
 website: https://research-information.bris.ac.uk/en/persons/wei-wei
