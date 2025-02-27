@@ -11,6 +11,7 @@ permalink: /people/
 FEL is a unit of [Intelligent Systems Laboratory (ISL)](https://www.bristol.ac.uk/research/groups/intelligent-systems/).
 <p><p>
 Researchers in the Financial Engineering Lab (FEL) develop and apply methods from AI, Machine Learning (ML), Data Science, and advanced simulation/modelling techniques to explore and address issues in present-day and future financial systems. FEL research spans from the “micro” of creating reliably profitable adaptive automated trading systems that can operate autonomously in contemporary electronic financial markets; through intermediate-level issues such as the design of novel market mechanisms and institutions; to “macro” level issues such as modelling and predicting systemic risk and stability in entire national or international financial systems.
+<p>
 
 <!--
 {% assign people_sorted = site.people | sort: "joined" %}
