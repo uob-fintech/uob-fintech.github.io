@@ -15,8 +15,8 @@ permalink: /meetings/
         {{post.content}}
         </p>
     </div>
+    <hr>
     {% endif %}
-  <hr>
   {% endfor %}
 </div>
 
