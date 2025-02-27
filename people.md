@@ -7,7 +7,7 @@ permalink: /people/
 {% assign people_array = "pi|postdoc|gradstudent|visiting|others" | split: "|" %}
 
 <br>
-<h2>Fintech Research Group</h2>
+<h2>Financial Engineering Lab (FEL)</h2>
 
 <!--
 {% assign people_sorted = site.people | sort: "joined" %}
