@@ -1,8 +1,8 @@
 ---
 name: Prof. Dave Cliff
 position: pi
-avatar: 
+avatar: dave_c.jpg
 twitter: 
 affiliation: SEMT
-website: 
+website: https://research-information.bris.ac.uk/en/persons/dave-cliff
 ---

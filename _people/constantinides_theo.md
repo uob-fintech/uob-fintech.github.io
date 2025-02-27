@@ -1,8 +1,8 @@
 ---
 name: Theodoros Constantinides
 position: gradstudent 
-avatar: 
+avatar: theo_c.jpg
 twitter: 
 affiliation: John Cartlidge's Group
-website: 
+website: https://research-information.bris.ac.uk/en/persons/theodoros-constantinides
 ---

@@ -1,8 +1,8 @@
 ---
 name: Dr Yan Ge
 position: pi
-avatar: 
+avatar: yan_ge.jpg
 twitter: 
 affiliation: SEMT
-website: 
+website: https://research-information.bris.ac.uk/en/persons/yan-ge
 ---

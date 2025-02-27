@@ -1,8 +1,8 @@
 ---
 name: Dr Yang Yang
 position: pi
-avatar: 
+avatar: yang_yang.jpg
 twitter: 
 affiliation: SEMT
-website: 
+website: https://research-information.bris.ac.uk/en/persons/yang-yangyang 
 ---
