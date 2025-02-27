@@ -16,6 +16,7 @@ permalink: /news/
         </p>
     </div>
     {% endif %}
+  <hr>
   {% endfor %}
 </div>
 
