@@ -4,7 +4,7 @@
 
 # Basic
 name:               Financial Engineering Lab (FEL)
-usename4navbar:     Fales   #Allows for a different name to be used in the navigation bar (see navbar.html)
+usename4navbar:     False   #Allows for a different name to be used in the navigation bar (see navbar.html)
 title:              "University of Bristol Financial Engineering Lab"
 description:        "We develop and apply methods from AI, Machine Learning (ML), Data Science, and advanced simulation/modelling techniques to explore and address issues in present-day and future financial systems."
 
