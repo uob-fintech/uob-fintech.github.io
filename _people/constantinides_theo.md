@@ -1,5 +1,5 @@
 ---
-name: Theodoros Constantinides
+name: Theo Constantinides
 position: gradstudent 
 avatar: theo_c.jpg
 twitter: 
