@@ -16,6 +16,7 @@ permalink: /meetings/
         </p>
     </div>
     {% endif %}
+  <hr>
   {% endfor %}
 </div>
 
