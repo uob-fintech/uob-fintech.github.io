@@ -43,7 +43,7 @@ The changes will take approximately half a minute to render.
 
 ## Add yourself
 
-You can add yourself to the page in `_people` folder just create file name `<firstname>_<lastname>.md` in the folder. We require few line of header before you start writing your own page. See the following for the header
+You can add yourself to the page in `_people` folder just create file name `<lastname>_<firstname>.md` in the folder. We require few line of header before you start writing your own page. See the following for the header
 
 ```
 ---
