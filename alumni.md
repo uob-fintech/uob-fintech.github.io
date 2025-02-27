@@ -13,6 +13,7 @@ FEL is a unit of [Intelligent Systems Laboratory (ISL)](https://www.bristol.ac.u
 <br>
 [Financial Engineering Lab](/people)
 <br>
+
 <!--
 {% assign people_sorted = site.people | sort: "joined" %}
 <ul>
