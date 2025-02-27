@@ -7,7 +7,8 @@ permalink: /people/alumni
 {% assign people_array = "alumni_leader|alumni_ra|alumni_phd" | split: "|" %}
 
 <br>
-<h2>Financial Engineering Lab</h2>
+<h2>[Financial Engineering Lab](/people)</h2>
+<!--<h2>Financial Engineering Lab</h2>-->
 FEL is a unit of [Intelligent Systems Laboratory (ISL)](https://www.bristol.ac.uk/research/groups/intelligent-systems/).
 <br>
 
