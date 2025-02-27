@@ -15,8 +15,8 @@ permalink: /news/
         {{post.content}}
         </p>
     </div>
+    <hr>
     {% endif %}
-  <hr>
   {% endfor %}
 </div>
 
