@@ -11,7 +11,7 @@ permalink: /people/alumni
 <!--<h2>Financial Engineering Lab</h2>-->
 FEL is a unit of [Intelligent Systems Laboratory (ISL)](https://www.bristol.ac.uk/research/groups/intelligent-systems/).
 <br>
-
+[Financial Engineering Lab](/people)
 <!--
 {% assign people_sorted = site.people | sort: "joined" %}
 <ul>
