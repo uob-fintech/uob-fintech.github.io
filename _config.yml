@@ -3,9 +3,9 @@
 # # # # # # # #
 
 # Basic
-name:               Bristol Fintech
-usename4navbar:     False   #Allows for a different name to be used in the navigation bar (see navbar.html)
-title:              "Bristol Fintech"
+name:               Financial Engineering Lab
+usename4navbar:     True   #Allows for a different name to be used in the navigation bar (see navbar.html)
+title:              "University of Bristol Financial Engineering Lab"
 description:        "We aim to ...."
 
 
