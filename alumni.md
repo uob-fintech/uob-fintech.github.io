@@ -7,9 +7,7 @@ permalink: /people/alumni
 {% assign people_array = "alumni_leader|alumni_ra|alumni_phd" | split: "|" %}
 
 <br>
-<h2>Financial Engineering Lab</h2>
-
-[Financial Engineering Lab (FEL)](/people) alumni. 
+<h2>FEL Alumni</h2>
 <br>
 <br>
 
