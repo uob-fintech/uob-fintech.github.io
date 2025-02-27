@@ -4,7 +4,7 @@ permalink: /news/
 ---
 
 <br>
-### **Latest Fintech news**
+### **Latest News**
 <br>
 <div class="content list">
   {% for post in site.posts %}
