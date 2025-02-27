@@ -9,7 +9,7 @@ permalink: /people/alumni
 <br>
 <h2>Financial Engineering Lab</h2>
 
-List of [Financial Engineering Lab (FEL)](/people) alumni. 
+[Financial Engineering Lab (FEL)](/people) alumni. 
 <br>
 <br>
 
