@@ -1,0 +1,6 @@
+---
+title: Welcome to Weibin Feng on starting his PhD
+categories: news
+description: welcome
+---
+A warm welcome to Mr Weibin Feng, who joins us this month to begin his PhD studies, supervised by Dr Jin Zheng, Dr Ran Tao, and Prof John Cartlidge. Weibin joins us from King's College London, UK, where he received an MSc in Finance. Weibin's PhD is funded by EPSRC DTP Scholarship and his research will explore market risks in emissions trading.  
