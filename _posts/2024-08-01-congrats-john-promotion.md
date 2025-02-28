@@ -1,6 +1,6 @@
 ---
-title: Congratulations to Pengju Zhang on successfully defending his MScR thesis
+title: Congratulations to John Cartlidge on promotion to full Professor of Financial Technology
 categories: news
-description: MScR pass
+description: promotion
 ---
-I am very happy to share the wonderful news that today, Pengju Zhang successfully defended his thesis titled "GNN-based Social Media Sentiment Analysis for Stock Market Forecasting and Trading" and has been awarded an MScR, subject to  minor corrections! His examiners were Prof Qingwei Wang (University of Cardiff), Prof John Cartlidge (University of Bristol), and Independent Chair Prof Weiru Liu (University of Bristol).
+I am very happy to share that John Cartlidge has been promoted to full Professor of Financial Technology. 
