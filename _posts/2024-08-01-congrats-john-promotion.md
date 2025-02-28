@@ -1,5 +1,5 @@
 ---
-title: Congratulations to John Cartlidge on promotion to full Professor of Financial Technology
+title: Congratulations to John Cartlidge on promotion to full Professor
 categories: news
 description: promotion
 ---
