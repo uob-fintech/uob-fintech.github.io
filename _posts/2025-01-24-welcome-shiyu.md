@@ -1,5 +1,5 @@
 ---
-title: Welcome to Shiyu Zhang on starting her PhD
+title: Welcome to Shiyu Zhang (new PhD student)
 categories: news
 description: welcome
 ---

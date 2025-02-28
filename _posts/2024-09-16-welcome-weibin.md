@@ -1,5 +1,5 @@
 ---
-title: Welcome to Weibin Feng on starting his PhD
+title: Welcome to Weibin Feng (new PhD student)
 categories: news
 description: welcome
 ---
