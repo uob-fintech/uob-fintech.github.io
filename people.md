@@ -4,14 +4,11 @@ permalink: /people/
 ---
 
 {% assign people_sorted = site.people | sort: "joined" %}
-{% assign people_array = "pi|postdoc|gradstudent|visiting|others" | split: "|" %}
+{% assign people_array = "pi|postdoc|gradstudent|others" | split: "|" %}
 
-<br>
-<h2>Financial Engineering Lab</h2>
-FEL is a unit of [Intelligent Systems Laboratory (ISL)](https://www.bristol.ac.uk/research/groups/intelligent-systems/).
-<br>
-<p>Researchers in the Financial Engineering Lab (FEL) develop and apply methods from AI, Machine Learning (ML), Data Science, and advanced simulation/modelling techniques to explore and address issues in present-day and future financial systems. FEL research spans from the “micro” of creating reliably profitable adaptive automated trading systems that can operate autonomously in contemporary electronic financial markets; through intermediate-level issues such as the design of novel market mechanisms and institutions; to “macro” level issues such as modelling and predicting systemic risk and stability in entire national or international financial systems.
-</p>
+<h4><b>News: </b>Applications to the <a href="http://uob-mavi.github.io/Summer@MaVi.html">2025 Summer of Research @MaVi</a> have now open.</h4><br/><br/>
+
+<h2>Machine Learning and Computer Vision Research Group</h2>
 
 <!--
 {% assign people_sorted = site.people | sort: "joined" %}
@@ -59,7 +56,7 @@ FEL is a unit of [Intelligent Systems Laboratory (ISL)](https://www.bristol.ac.u
         {% if profile.avatar %}
         <a href="{{url_tmp}}"><img width="200" height="230" src="{{site.baseurl}}/images/people/{{profile.avatar}}"></a>
         {% else %}
-        <a href=""><img width="200" height="230" src="{{site.baseurl}}/images/people/facebook-Storm-Trooper.jpg"></a>
+        <a href=""><img width="200" height="230" src="http://evansheline.com/wp-content/uploads/2011/02/facebook-Storm-Trooper.jpg"></a>
         {% endif %}
         <a class="name" href="{{url_tmp}}">{{ profile.name }}</a>
         {% if profile.affiliation %}
@@ -75,7 +72,7 @@ FEL is a unit of [Intelligent Systems Laboratory (ISL)](https://www.bristol.ac.u
 <hr>
 {% endfor %}
 
-List of [Financial Engineering Lab (FEL) alumni](/people/alumni).
+List of [MaVi alumni](/people/alumni).
 
 <hr>
 
