@@ -4,11 +4,16 @@ permalink: /people/
 ---
 
 {% assign people_sorted = site.people | sort: "joined" %}
-{% assign people_array = "pi|postdoc|gradstudent|others" | split: "|" %}
+{% assign people_array = "pi|postdoc|gradstudent|visiting|others" | split: "|" %}
 
-<h4><b>News: </b>Applications to the <a href="http://uob-mavi.github.io/Summer@MaVi.html">2025 Summer of Research @MaVi</a> have now open.</h4><br/><br/>
+<!-- Testing NEWSFLASH -->
+<h4><b>Newsflash: </b>We are hiring! See: <a href="./">TEST LINK</a>.</h4><br/><br/>
+<hr>
+<!-- -->
 
-<h2>Machine Learning and Computer Vision Research Group</h2>
+<br>
+<h2>[Financial Engineering Lab](/people)</h2>
+FEL is a unit of [Intelligent Systems Laboratory (ISL)](https://www.bristol.ac.uk/research/groups/intelligent-systems/).
 
 <!--
 {% assign people_sorted = site.people | sort: "joined" %}
@@ -56,7 +61,7 @@ permalink: /people/
         {% if profile.avatar %}
         <a href="{{url_tmp}}"><img width="200" height="230" src="{{site.baseurl}}/images/people/{{profile.avatar}}"></a>
         {% else %}
-        <a href=""><img width="200" height="230" src="http://evansheline.com/wp-content/uploads/2011/02/facebook-Storm-Trooper.jpg"></a>
+        <a href=""><img width="200" height="230" src="{{site.baseurl}}/images/people/facebook-Storm-Trooper.jpg"></a>
         {% endif %}
         <a class="name" href="{{url_tmp}}">{{ profile.name }}</a>
         {% if profile.affiliation %}
@@ -72,7 +77,7 @@ permalink: /people/
 <hr>
 {% endfor %}
 
-List of [MaVi alumni](/people/alumni).
+List of [Fintech alumni](/people/alumni).
 
 <hr>
 
