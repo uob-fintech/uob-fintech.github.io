@@ -6,9 +6,10 @@ permalink: /testpeople/
 <!-- set true/false if there is a newsflash announcement -->
 {% if true %}
   {% include newsflash.html %}
+{% else %}
+  <br>  
 {% endif %}
 
-<br>
 <h2>Financial Engineering Lab</h2>
 FEL is a unit of [Intelligent Systems Laboratory (ISL)](https://www.bristol.ac.uk/research/groups/intelligent-systems/).
 <br>
