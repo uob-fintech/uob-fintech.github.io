@@ -7,7 +7,9 @@ permalink: /people/
 {% assign people_array = "pi|postdoc|gradstudent|visiting|others" | split: "|" %}
 
 <!-- Testing NEWSFLASH -->
-<h4><b>Newsflash: </b>We are hiring! See: <a href="./">TEST LINK</a>.</h4><br/><br/>
+<br>
+<h3>Newsflash: We are hiring! See: [TEST LINK](<a href="./">).</h3>
+<br>
 <hr>
 <!-- -->
 
