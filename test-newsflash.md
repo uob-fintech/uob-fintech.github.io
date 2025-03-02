@@ -2,8 +2,8 @@
 title: Newsflash
 permalink: /newsflash
 ---
-<!-- set true if there is a newsflash announcement -->
-{% if false %}
+<!-- set true/false if there is a newsflash announcement -->
+{% if true %}
   {% include newsflash.html %}
 {% endif %}
 
