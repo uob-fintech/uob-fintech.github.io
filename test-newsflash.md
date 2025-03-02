@@ -2,7 +2,10 @@
 title: Newsflash
 permalink: /newsflash
 ---
-{% include newsflash.html %}
+{% if true %}
+  {% include newsflash.html %}
+{% endif %}
+
 <br>
 <div class="content list">
   {% for post in site.posts %}
