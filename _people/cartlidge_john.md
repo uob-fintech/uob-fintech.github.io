@@ -4,5 +4,5 @@ position: pi
 avatar: john_c.jpg
 twitter: 
 affiliation: SEMT
-website: https://seis.bristol.ac.uk/~cszjpc/
+website: https://research-information.bris.ac.uk/en/persons/john-cartlidge
 ---
