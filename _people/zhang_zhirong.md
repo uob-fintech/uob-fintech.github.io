@@ -4,5 +4,5 @@ position: visiting
 avatar: zhirong_zhang.jpg
 twitter: 
 affiliation: Jin Zheng's Group (Visiting PhD)
-website: 
+website: www.linkedin.com/in/zzrbristol
 ---
