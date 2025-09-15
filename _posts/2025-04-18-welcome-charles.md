@@ -1,0 +1,6 @@
+---
+title: Welcome to Dr Charles Kind (new lecturer)
+categories: news
+description: welcome
+---
+A warm welcome to Dr Charles Kind, who has joined us as part time Lecturer in Financial Technology. Charles is well-known to the group, having spent the last year helping us to deliver teaching on our [MSc Financial Technology with Data Science](https://www.bristol.ac.uk/study/postgraduate/taught/msc-financial-technology-with-data-science/). Charles has a PhD in Mathematics, Unversity of Bristol, on [Skyrmion Bags](https://research-information.bris.ac.uk/en/studentTheses/skyrmion-bags). He also has many years of industrial experience in financial technology, including time as partner in a hedge fund, where he designed price predictive online trading systems. Charles's research interests include AI applictions in finance and financial market simulations. When he is not working with us, Charles spends his time as a senior research fellow in the School of Physics, where he works on applications of neural networks to nuclear safety. 

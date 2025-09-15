@@ -1,0 +1,64 @@
+# # # # # # # #
+#   K i k o   #
+# # # # # # # #
+
+# Basic
+name:               Financial Engineering Lab (FEL)
+usename4navbar:     False   #Allows for a different name to be used in the navigation bar (see navbar.html)
+title:              "University of Bristol Financial Engineering Lab"
+description:        "We develop and apply methods from AI, Machine Learning (ML), Data Science, and advanced simulation/modelling techniques to explore and address issues in present-day and future financial systems."
+
+
+# URL
+url:                https://uob-fintech.github.io/people
+#baseurl:            https://uob-fintech.github.io/people
+#baseurl:            "" #For Root Domain
+permalink:          /:year/:month/:day/:title.html
+
+# Markdown
+markdown:           kramdown
+
+# Highlighter
+highlighter:        rouge
+
+future:             true
+
+# Navigation
+nav:
+  - name:           "PEOPLE"
+    href:           "/people"
+  - name:           "MEETINGS"
+    href:           "/meetings"    
+  - name:           "NEWS"
+    href:           "/news"
+
+# Sass
+sass:
+  style:            :compressed
+
+# Scopes
+defaults:
+  -
+    scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"
+  -
+    scope:
+      path:         ""
+      type:         "people"
+    values:
+      layout:       "profile"
+
+
+collections:
+  people:
+    output: true
+    permalink: /people/:title/index.html

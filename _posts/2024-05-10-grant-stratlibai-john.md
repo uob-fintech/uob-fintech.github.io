@@ -1,0 +1,6 @@
+---
+title: Funding award (£1m UKRI Innovate UK - Stratlib.AI)
+categories: news
+description: grant
+---
+I'm pleased to share that UKRI Innovate UK have awarded £1m to fund collaborative R&D project [Stratlib.AI - A trusted machine learning platform for asset and credit managers](https://gtr.ukri.org/projects?ref=10094067), as part of a national [£19m investment to accelerate trustworthy and responsible AI](https://www.ukri.org/news/19-million-to-accelerate-trustworthy-and-responsible-ai/). The consortium includes industry partners Stratiphy (leading the project), Smart Pension, Aventur Group, and Chenavari Financial Group; and academic partners University of Bristol (lead: John Cartlidge) and University of Birmingham (lead: Prof Karen Elliott). The grant will fund one PDRA to work with John in FEL for 12 months. For more information, see articles in [Fintech Finance News](https://ffnews.com/newsarticle/funding/stratiphy-leads-1-million-consortium-to-advance-trustworthy-ai-solutions-in-financial-services/) and [Finextra](https://www.finextra.com/pressarticle/100714/stratiphy-ai-consortium-bags-1-million-grant-from-innovate-uk).  

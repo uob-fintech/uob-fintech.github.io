@@ -1,0 +1,6 @@
+---
+title: Hello world! We are the Financial Engineering Lab (FEL)
+categories: news
+description: hello world
+---
+We are the Financial Engineering Lab (FEL), a new research sub-group of the federated [Intelligent Systems Laboratory (ISL)](https://www.bristol.ac.uk/research/groups/intelligent-systems/). We consist of two core faculty, Prof Dave Cliff and Dr John Cartlidge; one postdoctoral research associate, Dr Raj Mani Shukla (who works with John on his [Claritum KTP project](https://www.setsquared.co.uk/claritum-awarded-knowledge-transfer-partnership-funding-from-innovate-uk/)); and two PhD students, Mr Hugo Alcaraz Herrera and Mr Zijian Shi, supervised by John and Dave. Dave has recently taken over as the new Head of ISL Federated Research Group and John is the inaugural Head of the FEL. FEL is only small at the moment, but we expect to grow quickly as the first cohort of students for our new [MSc Financial Technology with Data Science](https://www.bristol.ac.uk/study/postgraduate/taught/msc-financial-technology-with-data-science/) will arrive in September. It's going to be an exciting journey ahead!
