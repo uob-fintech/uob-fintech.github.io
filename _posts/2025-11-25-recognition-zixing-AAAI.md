@@ -1,5 +1,5 @@
 ---
-title: Zixing Song selected for New Faculty Highlights at AAAI-26
+title: Dr Zixing Song selected for New Faculty Highlights at AAAI-26
 categories: news
 description: invitation
 ---
