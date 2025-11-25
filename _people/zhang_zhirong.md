@@ -1,6 +1,6 @@
 ---
 name: Zhirong Zhang
-position: visiting 
+position: alumni_visitor 
 avatar: zhirong_zhang.jpg
 twitter: 
 affiliation: Jin Zheng's Group (Visiting PhD)
