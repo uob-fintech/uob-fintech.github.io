@@ -1,6 +1,6 @@
 ---
 name: Dr Yan Ge
-position: pi
+position: alumni_leader
 avatar: yan_ge.jpg
 twitter: 
 affiliation: SEMT
