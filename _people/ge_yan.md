@@ -4,5 +4,5 @@ position: alumni_leader
 avatar: yan_ge.jpg
 twitter: 
 affiliation: SEMT
-website: 
+website: "https://uob-fintech.github.io/people/alumni"
 ---
