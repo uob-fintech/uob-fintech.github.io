@@ -4,7 +4,7 @@ permalink: /people/
 ---
 
 <!-- set true/false if there is a newsflash announcement -->
-{% if true %}
+{% if false %}
   {% include newsflash.html %}
 {% else %}
   <br>  
