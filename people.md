@@ -47,7 +47,7 @@ FEL is a unit of [Intelligent Systems Laboratory (ISL)](https://www.bristol.ac.u
 {% elsif item == 'visiting' %}
 <h3>Visiting scholars</h3>
  {% elsif item == 'others' %} 
-<h3>Affiliated faculty</h3>
+<h3>Affiliated faculty (Mumbai)</h3>
 {% elsif item == 'alumni' %}
 <h3>Alumni</h3>
 {% endif %}
