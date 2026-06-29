@@ -1,5 +1,5 @@
 ---
-name: Mr. Kunal Rao
+name: Dr. Kunal Rao
 position: others
 avatar: MEC-Kunal-Rao.jpg
 twitter: 
