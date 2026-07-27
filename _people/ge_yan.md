@@ -4,5 +4,5 @@ position: alumni_leader
 avatar: yan_ge.jpg
 twitter: 
 affiliation: SEMT
-website: "https://uob-fintech.github.io/people/alumni"
+website: https://www.uwslondon.ac.uk/london-faculty-directory/dr-yan-ge
 ---
