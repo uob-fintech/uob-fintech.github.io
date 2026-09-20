@@ -3,6 +3,6 @@ name: Prof. John Cartlidge
 position: pi
 avatar: john_c.jpg
 twitter: 
-affiliation: SEMT
+affiliation: "Head of Financial Engineering Lab"
 website: https://research-information.bris.ac.uk/en/persons/john-cartlidge
 ---
