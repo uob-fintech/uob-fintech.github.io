@@ -23,6 +23,12 @@ permalink: /people/alumni
 </ul>-->
 
 {% for item in people_array %}
+  <!-- choose how the people should be sorted for this category -->
+  {% if item == 'alumni_phd' %}
+    {% assign people_sorted = site.people | sort: "graduated" %}
+  {% else %}
+    {% assign people_sorted = site.people | sort: "joined" %}
+  {% endif %}
 
 <div class="pos_header">
 {% if item == 'postdoc' %}
