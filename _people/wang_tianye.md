@@ -1,6 +1,7 @@
 ---
 name: Tianye Wang
-position: gradstudent 
+position: gradstudent
+joined: 2023-09 
 avatar: tianye_wang.jpg
 twitter: 
 affiliation: "Supervisors: Jin Zheng<br>and Yang Yang"

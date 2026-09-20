@@ -1,6 +1,7 @@
 ---
 name: Shiyu Zhang
-position: gradstudent 
+position: gradstudent
+joined: 2025-01 
 avatar: shiyu_zhang.jpg
 twitter: 
 affiliation: "Supervisors: Zining Wang,<br>Jin Zheng and John Cartlidge"

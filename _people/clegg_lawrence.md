@@ -1,6 +1,7 @@
 ---
 name: Lawrence Clegg
-position: gradstudent 
+position: gradstudent
+joined: 2023-09 
 avatar: lawrence_clegg.jpg
 twitter: 
 affiliation: "Supervisor: John Cartlidge"

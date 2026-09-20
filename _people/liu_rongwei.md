@@ -1,6 +1,7 @@
 ---
 name: Rongwei Liu
-position: gradstudent 
+position: gradstudent
+joined: 2022-09 
 avatar: rongwei_liu.jpg
 twitter: 
 affiliation: "Supervisors: John Cartlidge<br>and Jin Zheng"
