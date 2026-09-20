@@ -1,5 +1,5 @@
 ---
-name: Prof. John Cartlidge
+name: Prof John Cartlidge
 position: pi
 avatar: john_c.jpg
 twitter: 
