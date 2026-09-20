@@ -41,7 +41,7 @@ permalink: /people/alumni
 <h3>Alumni postdoctoral research staff</h3>
 {% elsif item == 'alumni_phd' %}
 <h3>Alumni postgraduate researchers</h3>
-{% elsif item == 'alumni_visitor' %}
+{% elsif item == 'alumni_visitors' %}
 <h3>Alumni visitor</h3>
 {% endif %}
 </div>
