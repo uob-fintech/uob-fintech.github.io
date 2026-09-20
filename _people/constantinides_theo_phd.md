@@ -1,8 +1,8 @@
 ---
 name: Theo Constantinides
-position: pi 
+position: former
 avatar: theo_c.jpg
 twitter: 
-affiliation: "Lecturer"
+affiliation: "Supervisor: John Cartlidge"
 website: https://research-information.bris.ac.uk/en/persons/theodoros-constantinides
 ---
