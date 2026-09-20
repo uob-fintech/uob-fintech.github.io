@@ -40,7 +40,7 @@ permalink: /people/alumni
 {% elsif item == 'alumni_ra' %}
 <h3>Alumni postdoctoral research associate</h3>
 {% elsif item == 'alumni_phd' %}
-<h3>Alumni doctoral student</h3>
+<h3>Alumni postgraduate researchers</h3>
 {% elsif item == 'alumni_visitor' %}
 <h3>Alumni visitor</h3>
 {% endif %}
