@@ -3,6 +3,6 @@ name: Theo Constantinides
 position: gradstudent 
 avatar: theo_c.jpg
 twitter: 
-affiliation: John Cartlidge's Group
+affiliation: "Supervisor: John Cartlidge"
 website: https://research-information.bris.ac.uk/en/persons/theodoros-constantinides
 ---
