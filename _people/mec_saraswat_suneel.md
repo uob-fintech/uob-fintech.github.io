@@ -1,8 +1,8 @@
 ---
-name: Dr. Suneel Saraswat
+name: Dr Suneel Saraswat
 position: others
 avatar: MEC-Suneel-Saraswat.jpg
 twitter: 
-affiliation: MEC
+affiliation: Assistant Professor
 website: https://www.mumbai.bristol.ac.uk/about/faculty/dr-suneel-sarswat/
 ---
