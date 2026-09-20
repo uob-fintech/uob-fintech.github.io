@@ -1,7 +1,7 @@
 ---
 name: Dr Rahul Gupta
 position: others
-avatar: MEC-Rahul-Gupta.jpg
+avatar:
 twitter: 
 affiliation: Assistant Professor
 website: 
