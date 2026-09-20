@@ -4,7 +4,7 @@ permalink: /people/alumni
 ---
 
 {% assign people_sorted = site.people | sort: "joined" %}
-{% assign people_array = "alumni_leader|alumni_ra|alumni_phd|alumni_visitor" | split: "|" %}
+{% assign people_array = "alumni_core|alumni_ra|alumni_phd|alumni_visitor" | split: "|" %}
 
 
 <!--
@@ -35,8 +35,8 @@ permalink: /people/alumni
 <h3>Visiting scholars</h3>
  {% elsif item == 'others' %} 
 <h3>Affiliated faculty</h3>
-{% elsif item == 'alumni_leader' %}
-<h3>Alumni principal investigator</h3>
+{% elsif item == 'alumni_core' %}
+<h3>Alumni core faculty</h3>
 {% elsif item == 'alumni_ra' %}
 <h3>Alumni postdoctoral research associate</h3>
 {% elsif item == 'alumni_phd' %}
