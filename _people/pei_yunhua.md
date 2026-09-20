@@ -1,6 +1,7 @@
 ---
 name: Yunhua Pei
-position: gradstudent 
+position: gradstudent
+joined: 2023-01 
 avatar: yunhua_pei.jpg
 twitter: 
 affiliation: "Supervisors: John Cartlidge<br>and Jin Zheng"
