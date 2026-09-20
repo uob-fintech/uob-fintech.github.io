@@ -1,6 +1,7 @@
 ---
 name: Zinuo (Henry) You
-position: gradstudent 
+position: gradstudent
+joined: 2022-09 
 avatar: henry_you.jpg
 twitter: 
 affiliation: "Supervisors: John Cartlidge<br>and Jin Zheng"
