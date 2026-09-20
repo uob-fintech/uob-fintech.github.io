@@ -70,7 +70,7 @@ FEL is a unit of [Intelligent Systems Laboratory (ISL)](https://www.bristol.ac.u
         {% endif %}
         <a class="name" href="{{url_tmp}}">{{ profile.name }}</a>
         {% if profile.affiliation %}
-          <br><small><span style="color:#9d9d9d">{{ profile.affiliation }}</span></small>
+          br><small class="affiliation"><span style="color:#9d9d9d">{{ profile.affiliation }}</span></small>
         {% else %}
           <br><small><span style="color:#FFFFFF">.</span></small>
         {% endif %}
