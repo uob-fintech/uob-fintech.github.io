@@ -38,7 +38,7 @@ permalink: /people/alumni
 {% elsif item == 'alumni_core' %}
 <h3>Alumni core faculty</h3>
 {% elsif item == 'alumni_ra' %}
-<h3>Alumni postdoctoral research associate</h3>
+<h3>Alumni postdoctoral research staff</h3>
 {% elsif item == 'alumni_phd' %}
 <h3>Alumni postgraduate researchers</h3>
 {% elsif item == 'alumni_visitor' %}
