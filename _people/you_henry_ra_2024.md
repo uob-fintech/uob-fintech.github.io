@@ -1,6 +1,7 @@
 ---
 name: Zinuo (Henry) You
-position: alumni_ra 
+position: alumni_ra
+joined: 2024-06 
 avatar: henry_you.jpg
 twitter: 
 affiliation: "Research Associate<br>Stratlib.AI, 2024-2025<br>AI4CI, 2026"

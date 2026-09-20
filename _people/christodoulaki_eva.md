@@ -1,6 +1,7 @@
 ---
 name: Dr Eva Christodoulaki
 position: alumni_ra
+joined: 2024-09
 avatar: eva_c.jpg
 twitter: 
 affiliation: "Senior Research Associate<br>AI4CI, 2024-2025"

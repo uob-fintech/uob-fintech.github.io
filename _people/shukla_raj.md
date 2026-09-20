@@ -1,6 +1,7 @@
 ---
 name: Dr Raj Mani Shukla
 position: alumni_ra
+joined: 2020-09
 avatar: raj_shukla.jpg
 twitter: 
 affiliation: "KTP Associate<br>Claritum KTP, 2020-2022"
