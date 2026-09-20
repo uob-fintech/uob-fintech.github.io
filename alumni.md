@@ -26,6 +26,8 @@ permalink: /people/alumni
   <!-- choose how the people should be sorted for this category -->
   {% if item == 'alumni_phd' %}
     {% assign people_sorted = site.people | sort: "graduated" %}
+  {% elsif item == 'alumni_core' %}
+    {% assign people_sorted = site.people | sort: "left" %}
   {% else %}
     {% assign people_sorted = site.people | sort: "joined" %}
   {% endif %}

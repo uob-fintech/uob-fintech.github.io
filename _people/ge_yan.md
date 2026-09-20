@@ -1,6 +1,7 @@
 ---
 name: Dr Yan Ge
 position: alumni_core
+left: 2025-01
 avatar: yan_ge.jpg
 twitter: 
 affiliation: "Lecturer, 2021-2025"
