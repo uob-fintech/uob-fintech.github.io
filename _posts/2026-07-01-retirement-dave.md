@@ -9,7 +9,7 @@ Dave joined Bristol in 2007 following a distinguished career in academia and ind
 
 Dave later served as a member of the Lead Expert Group overseeing the UK Government Office for Science [*Foresight: The Future of Computer Trading in Financial Markets*](https://www.gov.uk/government/publications/future-of-computer-trading-in-financial-markets-an-international-perspective) project (2010–2012), examining the impact of advances in computer-based trading on financial markets.
 
-Dave has played a central role in the Financial Engineering Lab since its foundation, as well as serving as Head of the Intelligent Systems Laboratory (ISL). He has contributed enormously to the development of our research community through his leadership, research, teaching, collaboration, and supervision of PhD students.
+Dave has played a central role in the Financial Engineering Lab since its foundation, as well as serving as Head of the Intelligent Systems Laboratory (ISL). He has contributed enormously to the development of our research community through his research, teaching, collaboration, and supervision of PhD students.
 
 Dave has been a wonderful colleague, mentor and friend to many of us in FEL, and we are enormously grateful for everything he has contributed to the group. We are very pleased that retirement does not mark the end of Dave's association with FEL: as Emeritus Professor, he remains a valued member of our research community.
 
