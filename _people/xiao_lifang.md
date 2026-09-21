@@ -1,6 +1,6 @@
 ---
 name: Lifang Xiao
-position: visiting 
+position: former 
 avatar:
 twitter: 
 affiliation: "PhD Host: Jin Zheng"
