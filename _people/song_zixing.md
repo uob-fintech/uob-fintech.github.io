@@ -5,5 +5,5 @@ left: 2026-09
 avatar: zixing_song.jpg
 twitter: 
 affiliation: "Lecturer, 2025-2026"
-website: https://research-information.bris.ac.uk/en/persons/zixing-song
+website: https://www.polyu.edu.hk/dsai/people/academic-staff/song-zixing/
 ---
