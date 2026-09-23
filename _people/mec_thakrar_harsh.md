@@ -1,5 +1,5 @@
 ---
-name: Mr Harsh Thakrar
+name: Harsh Thakrar
 position: others
 avatar: MEC-Harsh-Thakrar.jpg
 twitter: 
