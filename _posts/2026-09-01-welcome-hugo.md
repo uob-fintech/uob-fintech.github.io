@@ -1,0 +1,6 @@
+---
+title: Welcome back to Hugo Alcaraz Herrera (new Teaching Associate)
+categories: news
+description: welcome
+---
+A warm welcome back to Dr Hugo Alcaraz Herrera, who joins the University of Bristol as a Teaching Associate on the [MSc Financial Technology with Data Science](https://www.bristol.ac.uk/study/postgraduate/taught/msc-financial-technology-with-data-science/) programme. Hugo completed his [PhD on evolutionary and coevolutionary computation](https://research-information.bris.ac.uk/en/studentTheses/studies-on-complex-representations-for-evolutionary-computation-a/) with us at FEL in 2023. He then joined the University of the West of England as a Postdoctoral Research Associate, applying neuroevolution techniques to the design of soft robots. In 2025, Hugo received the [Best Paper Award](https://ijcci.scitevents.org/PreviousAwards.aspx) at the International Conference on Evolutionary Computation Theory and Applications (ECTA). Returning to FEL, his research now focuses on applications of evolutionary computation in finance.
