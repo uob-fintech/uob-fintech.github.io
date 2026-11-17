@@ -38,50 +38,51 @@ FEL is a unit of [Intelligent Systems Laboratory (ISL)](https://www.bristol.ac.u
 {% for item in people_array %}
 
 {% assign category_people = people_sorted | where_exp: "person", "person.position contains item" %}
-  {% if category_people.size > 0 %}
+{% if category_people.size > 0 %}
 
-    <div class="pos_header">
-    {% if item == 'postdoc' %}
-      <h3>Postdoctoral research associates</h3>
-    {% elsif item == 'pi' %}
-      <h3>Core faculty</h3>
-    {% elsif item == 'gradstudent' %}
-      <h3>Doctoral students</h3>
-    {% elsif item == 'visiting' %}
-      <h3>Visiting scholars</h3>
-    {% elsif item == 'others' %} 
-      <h3>Affiliated faculty (Mumbai Enterprise Campus)</h3>
-    {% elsif item == 'alumni' %}
-      <h3>Alumni</h3>
-    {% endif %}
-    </div>
+<div class="pos_header">
+{% if item == 'postdoc' %}
+<h3>Postdoctoral research associates</h3>
+{% elsif item == 'pi' %}
+<h3>Core faculty</h3>
+{% elsif item == 'gradstudent' %}
+<h3>Doctoral students</h3>
+{% elsif item == 'visiting' %}
+<h3>Visiting scholars</h3>
+{% elsif item == 'others' %}
+<h3>Affiliated faculty (Mumbai Enterprise Campus)</h3>
+{% elsif item == 'alumni' %}
+<h3>Alumni</h3>
+{% endif %}
+</div>
 
-    <div class="content list people">
-      {% for profile in category_people %}
-        <div class="list-item-people">
-          <p class="list-post-title">
-            {% if profile.website %}
-              {% assign url_tmp = profile.website %}
-            {% else %}
-              {% assign url_tmp = site.baseurl | append: profile.url %}
-            {% endif %}
-            {% if profile.avatar %}
-            <a href="{{url_tmp}}"><img width="200" height="230" src="{{site.baseurl}}/images/people/{{profile.avatar}}"></a>
-            {% else %}
-            <a href=""><img width="200" height="230" src="{{site.baseurl}}/images/people/facebook-Storm-Trooper.jpg"></a>
-            {% endif %}
-            <a class="name" href="{{url_tmp}}">{{ profile.name }}</a>
-            {% if profile.affiliation %}
-              <br><small class="affiliation"><span style="color:#9d9d9d">{{ profile.affiliation }}</span></small>
-            {% else %}
-              <br><small><span style="color:#FFFFFF">.</span></small>
-            {% endif %}
-          </p>
-        </div>
-      {% endfor %}
-    </div>
-    <hr>
-  {% endif %}
+<div class="content list people">
+{% for profile in category_people %}
+<div class="list-item-people">
+<p class="list-post-title">
+{% if profile.website %}
+{% assign url_tmp = profile.website %}
+{% else %}
+{% assign url_tmp = site.baseurl | append: profile.url %}
+{% endif %}
+{% if profile.avatar %}
+<a href="{{url_tmp}}"><img width="200" height="230" src="{{site.baseurl}}/images/people/{{profile.avatar}}"></a>
+{% else %}
+<a href=""><img width="200" height="230" src="{{site.baseurl}}/images/people/facebook-Storm-Trooper.jpg"></a>
+{% endif %}
+<a class="name" href="{{url_tmp}}">{{ profile.name }}</a>
+{% if profile.affiliation %}
+<br><small class="affiliation"><span style="color:#9d9d9d">{{ profile.affiliation }}</span></small>
+{% else %}
+<br><small><span style="color:#FFFFFF">.</span></small>
+{% endif %}
+</p>
+</div>
+{% endfor %}
+</div>
+<hr>
+
+{% endif %}
 {% endfor %}
 
 List of [Financial Engineering Lab (FEL) alumni](/people/alumni).
